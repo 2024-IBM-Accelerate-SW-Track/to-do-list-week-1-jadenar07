@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import AddTodo from '/Users/jadenritchie/to-do-list-week-1-jadenar07/src/component/AddTodo.js';
-import Todos from '/Users/jadenritchie/to-do-list-week-1-jadenar07/src/component/todos.js';
+import AddTodo from '../component/AddTodo.js';
+import Todos from '../component/todos.js';
 import './Home.css';
 
 

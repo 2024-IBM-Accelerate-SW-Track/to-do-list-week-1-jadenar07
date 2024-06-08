@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import "./About.css";
-import profile_pic from "/Users/jadenritchie/to-do-list-week-1-jadenar07/src/assets/profile_pic.jpeg";
+import profile_pic from "../assets/profile_pic.jpeg";
   
 export default class About extends Component {
   render() {
